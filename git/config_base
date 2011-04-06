@@ -1,0 +1,14 @@
+user.name=Michał Wyrobek
+user.email=mwyrobek@gmail.com
+apply.whitespace=nowarn
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.status.changes=yellow
+color.status.added=green
+color.status.untracked=red
+core.editor=vim
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
