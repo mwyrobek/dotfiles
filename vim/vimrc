@@ -6,7 +6,10 @@ if has("syntax")
   syntax on
 endif
 
-set background=dark
+let g:solarized_termcolors=256
+set t_Co=16
+
+set background=light
 colorscheme solarized
 
 filetype on
